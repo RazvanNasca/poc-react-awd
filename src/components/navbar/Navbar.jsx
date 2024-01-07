@@ -1,5 +1,5 @@
-// Navbar.js
 import React from 'react';
+import cs from '../../cs-logo.png';
 import './Navbar.css';
 
 const Navbar = () => {

@@ -1,11 +1,11 @@
 .footer-container {
     display: flex;
     justify-content: space-between;
+    background-color: #d5dbf2;
+    position: fixed;
     bottom: 0;
-    position: absolute;
     width: 100%;
     padding: 10px 20px;
-    background-color: #d5dbf2;
 }
 
 .icons-container {

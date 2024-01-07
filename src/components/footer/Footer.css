@@ -1,0 +1,16 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #d5dbf2;
+}
+
+.icons-container {
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    font-size: 18px;
+}

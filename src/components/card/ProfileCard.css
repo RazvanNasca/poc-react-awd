@@ -1,0 +1,27 @@
+.profile-card-container {
+    margin-top: 20px;
+
+}
+
+img {
+    height: 400px;
+    width: 300px;
+    text-align: center;
+}
+
+.name {
+    font-size: 25px;
+}
+
+.role {
+    font: rgba(0, 0, 0, 0.6);
+    font-size: 20px;
+}
+
+.faculty {
+    font-size: 15px;
+}
+
+p {
+    text-align: center;
+}

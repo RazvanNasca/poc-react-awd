@@ -5,7 +5,7 @@ const Card = ({ title, description, button_text, button_link, icon }) => {
     return (
         <div class="card">
             <h5 class="card-header card-title">
-                <i class={icon}></i> { title }</h5>
+                <i class={icon} /> { title }</h5>
             <div class="card-body">
                 <p class="card-text card-description">
                     { description }

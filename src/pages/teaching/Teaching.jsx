@@ -7,6 +7,7 @@ const Teaching = () => {
     return (
         <div class="wrapper-container">
             <div class="container">
+                <h1>Teaching</h1>
                 <div class="row">
                     <div class="col">
                         <Card 

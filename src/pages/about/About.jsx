@@ -7,6 +7,7 @@ const About = () => {
     return (
         <div class="wrapper-container">
             <div class="container">
+                <h1>Personal Info</h1>
                 <div class="row">
                     <div class="col">
                         <Card 

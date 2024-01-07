@@ -10,7 +10,9 @@ function App() {
 
   return( 
     <>
+      <header>
       <Navbar />
+      </header>
       <BrowserRouter>
         <Routes> {/* used to defined routes in app */}
           <Route path="/" element={<Home />}/> 

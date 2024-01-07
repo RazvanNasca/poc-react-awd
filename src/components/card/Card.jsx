@@ -10,7 +10,7 @@ const Card = ({ title, description, button_text, button_link, icon }) => {
                 <p class="card-text card-description">
                     { description }
                 </p>
-                {button_text && <a href={button_link} class="btn button">{ button_text }</a> }
+                {button_text && <a href={button_link} target="_blank" class="btn button">{ button_text }</a> }
             </div>
         </div>
     );

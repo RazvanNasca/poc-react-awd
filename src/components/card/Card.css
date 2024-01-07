@@ -18,6 +18,7 @@
 
 .card {
     margin-top: 30px;
+    box-shadow: 7px 7px 3px 7px #d5dbf2;
 }
 
 .card-body {

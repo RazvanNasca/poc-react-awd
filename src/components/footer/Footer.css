@@ -11,6 +11,10 @@
 .icons-container {
     display: flex;
     justify-content: space-between;
-    width: 10%;
-    font-size: 18px;
+    width: 15%;
+    font-size: 15px;
 }
+
+/* .icons-container div a i {
+    font-size: 15px;
+} */

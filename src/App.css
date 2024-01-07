@@ -12,7 +12,6 @@
   --drop-shadow: 0 2px 8px 1px rgba(18, 18, 18, 0.3);
   --animation-fade: all 0.1s ease-out;
   position: relative;
-  min-height: 100vh;
 }
 
 body {
@@ -41,21 +40,5 @@ header {
 
 main {
   padding: 2rem 1rem;
-}
-
-/* Repo card component styles */
-
-.repo-cards {
-  padding: 0;
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
-}
-
-.repo-cards:empty::before {
-  display: block;
-  content: "Loading...";
-  width: 100%;
-  text-align: center;
 }
 

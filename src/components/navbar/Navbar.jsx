@@ -1,11 +1,10 @@
 import React from 'react';
-import cs from '../../cs-logo.png';
 import './Navbar.css';
 
 const Navbar = () => {
   return (
     <nav class="navbar navbar-expand-lg navbar-dark">
-      <a class="navbar-brand" href="#">Răzvan Nașca</a>
+      <a class="navbar-brand" href="/">Răzvan Nașca</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>

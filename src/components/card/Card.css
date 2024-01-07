@@ -10,6 +10,8 @@
 
 .card-description {
     font-size: 18px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .card-title{

@@ -5,7 +5,7 @@ import "./Contact.css";
 const Contact = () => {
     
     return (
-        <>
+        <div class="wrapper-container">
            <div class="container">
              <div class="row">
                 <div class="col">
@@ -28,7 +28,7 @@ const Contact = () => {
                 </div>
              </div>
             </div> 
-        </>
+        </div>
     );
 };
 

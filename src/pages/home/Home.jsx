@@ -6,6 +6,7 @@ import "./Home.css";
 const Home = () => {
     
     return (
+        <div class="wrapper-container">
         <div class="container"> 
             <div class="row"> 
                 <div class="col">
@@ -19,6 +20,7 @@ const Home = () => {
                     <ProfileCard />
                 </div>
             </div>
+        </div>
         </div>
     );
 };
